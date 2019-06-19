@@ -90,7 +90,7 @@
         <li>Improved system reliability and extended lifetime</li>
     </ul>
     
-    <img src="images/22.jpg" width="300" alt="Reconstructed main pumps" title="Reconstructed main pumps" />
+    <img src="images/22.JPG" width="300" alt="Reconstructed main pumps" title="Reconstructed main pumps" />
     <img src="images/33.JPG" width="300" alt="Repairing of the dumb" title="Repairing of the dumb" />
     
       <p style="margin-left:36.0pt">&nbsp;</p>
